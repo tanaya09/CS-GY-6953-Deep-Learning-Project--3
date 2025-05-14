@@ -37,7 +37,7 @@ Our detailed project report contains:
 - Perturbation heatmaps and prediction shifts
 - Accuracy drop charts and heatmap comparisons
 
-📄 [Project Report (PDF)]([https://github.com/tanaya09/CS-GY-6953-Deep-Learning-Project--3/blob/main/report/CS6953_Deep_Learning_Project_3__Report.pdf](https://github.com/tanaya09/CS-GY-6953-Deep-Learning-Project--3/blob/main/CS6953_Deep_Learning_Project_3__Report.pdf))
+📄 [Project Report (PDF)]([https://github.com/tanaya09/CS-GY-6953-Deep-Learning-Project--3/blob/main/report/CS6953_Deep_Learning_Project_3__Report.pdf](https://github.com/tanaya09/CS-GY-6953-Deep-Learning-Project--3/blob/main/CS6953_Deep_Learning_Project_3__Report.pdf)
 
 ---
 
